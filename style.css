@@ -4,9 +4,9 @@ body {
 *{
     color:white;
 }
-a:link{
-    color: aqua;
+a:link {
+    color:aqua;
 }
-a:visited{
+a:visited {
     color:blueviolet;
 }
