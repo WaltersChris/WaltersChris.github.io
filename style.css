@@ -3,5 +3,10 @@ body {
   }
 *{
     color:white;
-    margin-left: 20px;
+}
+a:link{
+    color: aqua;
+}
+a:visited{
+    color:blueviolet;
 }
