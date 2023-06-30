@@ -10,3 +10,31 @@ a:link {
 a:visited {
     color:blueviolet;
 }
+.top {
+    overflow: hidden;
+    background-color: #333;
+}
+
+.top a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .top a:hover {
+    background-color: black;
+    color: black;
+  }
+  
+  .content {
+    background-color: black;
+    padding: 10px;
+  }
+  
+  .bot {
+    background-color: black;
+    padding: 10px;
+  }
