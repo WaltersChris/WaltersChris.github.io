@@ -1,15 +1,19 @@
 body {
     background-color: black;
   }
+
 *{
     color:white;
 }
+
 a:link {
     color:aqua;
 }
+
 a:visited {
-    color:blueviolet;
+    color:violet;
 }
+
 .top {
     overflow: hidden;
     background-color: #333;
