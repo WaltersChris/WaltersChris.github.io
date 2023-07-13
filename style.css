@@ -28,6 +28,11 @@ a:visited {
     background-color: black;
     color: white;
   }
+
+  .top a:visited {
+    background-color: black;
+    color: white;
+  }
   
   .content {
     background-color: black;
