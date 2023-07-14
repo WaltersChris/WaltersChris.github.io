@@ -16,6 +16,10 @@ h2{
     font-weight: 800;
 }
 
+p{
+    font-family: Verdana, sans-serif;
+}
+
 a:link {
     color:aqua;
 }
@@ -57,10 +61,3 @@ a:visited {
     background-color: black;
     padding: 10px;
   }
-
-
-.a{font-family: Arial, sans-serif}
-.b{font-family: Helvetica, sans-serif}
-.c{font-family: Verdana, sans-serif}
-
-.f{font-family: 'Noto Sans', sans-serif}
