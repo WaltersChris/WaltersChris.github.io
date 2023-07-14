@@ -6,10 +6,6 @@ body {
     color:white;
 }
 
-h1{
-    font-family: Helvetica, serif;
-    font-weight: 800;
-}
 
 h2{
     font-family: Helvetica, serif;
@@ -62,3 +58,21 @@ a:visited {
     background-color: black;
     padding: 10px;
   }
+
+  .a{font-family: Helvetica, serif}
+  .b{font-family: verdana, serif}
+  .c{font-family: arial, serif}
+  .d{font-family: 'Times New Roman', Times, serif, serif}
+  .e{font-family: Georgia, serif}
+  .f{font-family: serif}
+  .g{font-family: sans-serif}
+
+  .x{
+
+    font-weight: 700;font-size: 40px
+}.y{
+
+  font-weight: 800;font-size: 40px
+}.z{
+  font-weight: 900;font-size: 40px
+}
