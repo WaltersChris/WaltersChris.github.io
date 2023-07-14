@@ -7,6 +7,19 @@ body {
 *{
   
     color:white;
+}
+
+h1{
+    font-family: Arial, serif;
+    font-weight: 900;
+}
+
+h2{
+    font-family: Arial, serif;
+    font-weight: 900;
+}
+
+p{
     font-family: 'Rubik', Helvetica, sans-serif;
 }
 
