@@ -3,7 +3,7 @@ body {
   }
 
 *{
-    color:white;
+    color:#ffffff;
     font-family: Verdana, sans-serif;
 }
 
@@ -21,11 +21,11 @@ p{
 }
 
 a:link {
-    color:aqua;
+    color:#00ffff;
 }
 
 a:visited {
-    color:violet;
+    color:#ee82ee;
 }
 
 .top {
